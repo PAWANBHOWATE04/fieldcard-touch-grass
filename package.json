@@ -1,0 +1,34 @@
+{
+  "name": "fieldcard-touch-grass",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered outdoor activity planner for Hacktoberfest Week 1: Touch Grass. Make a plan. Step outside. Leave the scroll behind.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [
+    "touch-grass",
+    "hacktoberfest",
+    "gemma",
+    "outdoors",
+    "fieldcard",
+    "nature",
+    "screen-free"
+  ],
+  "author": "Pawan Bhowate",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^2.28.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "dotenv": "^16.4.7",
+    "vite": "^6.0.7"
+  }
+}
