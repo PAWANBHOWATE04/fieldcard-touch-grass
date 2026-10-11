@@ -244,7 +244,7 @@ Vercel should deploy `/api/plan.js` as a serverless function according to the pr
 
 The repository also includes an animated demo and a screenshot:
 
-- [View the animated demo](demo/fieldcard-demo.webp)
+- [View the animated demo](demo/fieldcard_demo_video_1791727346240.webp)
 - [View the application screenshot](demo/fieldcard-preview.png)
 
 The demo file is an animated WebP, not an MP4. You can create an MP4 walkthrough separately if a video file is required for your submission.
